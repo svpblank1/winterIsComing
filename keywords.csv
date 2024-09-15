@@ -1,20 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Zeit,#f1fc17,#f1fc17,1,1
-'Kälte',de,Temperatur,#ff8800,#ff8800,1,1
-'Heizung',de,Energie,#ff00ea,#ff00ea,1,1
-'Heizen',de,Energie,#ff00ea,#ff00ea,1,1
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,1
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,1
-'Frieren',de,Mensch,#ff0000,#ff0000,1,1
-'Frost',de,Witterung,#64fafa,#64fafa,1,1
-'Frische',de,Witterung,#64fafa,#64fafa,1,1
-'Reif',de,Witterung,#64fafa,#64fafa,1,1
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,1
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,2,1
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,2,1
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,1
-'Gas',de,Energie,#ff00ea,#ff00ea,1,1
-'Handschuhe',de,Mensch,#ff0000,#ff0000,1,1
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,1,1
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,1,1
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1730293508523216
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.1250764846561651
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1170313579354341
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1069710503003744
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.10680633158788554
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0989693841625453
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0964461035411829
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.0944892402454262
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.0879840804660332
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.086318899737171
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0831911028715952
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0777720446747141
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0679392655928977
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0624866257684545
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0589437103231096
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0152567129259986
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0141372851997168
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0011130914322741
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.1933557156055062e-06
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,5.100782436753471e-18
